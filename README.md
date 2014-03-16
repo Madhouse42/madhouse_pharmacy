@@ -12,6 +12,7 @@ read & write a smart card via internet to emulate charge & consume operations.
 
 ## Dependencies
 
+*   python 2.7
 *   flask
 *   flask-bootstrap
 *   mwic_32.dll
