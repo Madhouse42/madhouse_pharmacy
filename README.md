@@ -8,7 +8,7 @@ read & write a smart card via internet to emulate charge & consume operations.
 
 ## Features
 
-* control a smart card and a card reader remotely (if you have put card into card reader and switch on the reader).
+* control a smart card and a card reader remotely (if you have put the card into a card reader and switch on the reader).
 
 ## Dependencies
 
